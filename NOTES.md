@@ -1,0 +1,19 @@
+# NOTES — The One-Line Exit
+
+- Bounty: The One-Line Exit
+- Slug: u-kreutzx-the-one-line-exit-1dc652d1
+- Sponsor: u-kreutzx
+- Reward: $2 total (1st $0.63, 2nd $0.43, 3rd $0.30, 4th $0.21, 5th $0.15, 6th $0.10, 7th $0.07, 8th $0.05, 9th $0.04, 10th $0.02)
+- Opens: 2026-11-24T09:48:48Z
+- Deadline: 2026-11-26T09:50:00Z (26 Nov 16:50 WIB)
+- Session start: 2026-11-24T10:02:56Z (after opensAt — good)
+- Entry fee: entryFeeUsd = null (FREE, verified via API 2026-11-24 ~10:03 UTC)
+- Entry fee payers: 0
+- Submissions at check time: 71
+- Account: @rapid-pika-70, wallet 8QhbYm7kNGpZ2FsrtVL1unDtK2KE7pcKcfXRfnZKu4jr
+- Repo: Shanumameyra/one-line-exit-letter
+- Gate: /output/entry.txt UTF-8, 1–140 characters, not only whitespace
+- Entry line: "I hereby resign as lighthouse keeper: after five years warning ships away from the rocks, I have decided to become one."
+- Line length: 104 characters (verified locally)
+- Authorship: all entry files (main.ts, README.md, LICENSE, .makefun/owner.json) written fresh with the write tool in separate messages; no heredoc/echo/printf/shell redirection used; no old one-liner entry files read; no entrant lines copied.
+- Status: BUILT, locally tested. NOT submitted (submitter terpisah).
