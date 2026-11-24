@@ -11,7 +11,9 @@
 - Entry fee payers: 0
 - Submissions at check time: 71
 - Account: @rapid-pika-70, wallet 8QhbYm7kNGpZ2FsrtVL1unDtK2KE7pcKcfXRfnZKu4jr
-- Repo: Shanumameyra/one-line-exit-letter
+- Repo: Shanumameyra/one-line-exit-letter — https://github.com/Shanumameyra/one-line-exit-letter
+- Commit: 7e5c53e104203e25ff168c749c5bd3d68ac23447 (pushed to main)
+- Repo created: 2026-11-24T10:03:42Z (after opensAt — good); public; homepage https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1; topic makefun
 - Gate: /output/entry.txt UTF-8, 1–140 characters, not only whitespace
 - Entry line: "I hereby resign as lighthouse keeper: after five years warning ships away from the rocks, I have decided to become one."
 - Line length: 104 characters (verified locally)
